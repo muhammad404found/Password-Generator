@@ -1,7 +1,12 @@
-# Password Generator
+# 🔐 Password Generator
 
-A Python app with a GUI that creates secure passwords. Choose length, character types, and copy to clipboard.
+A Python app with a simple GUI that creates secure passwords.
+
+- Choose password length  
+- Select character types (letters, numbers, symbols)  
+- Copy to clipboard with one click
 
 Built with `tkinter`.
 
-Author: Muhammad Ahmad
+**Author:** Muhammad Ahmad
+
